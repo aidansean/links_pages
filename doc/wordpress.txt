@@ -1,0 +1,19 @@
+[mathjax]
+
+When working on ATLAS and CMS I often needed to save links to poorly advertised pages.  This is where I store the links.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/keycode">Live page</a>
+<a href="https://github.com/aidansean/links_pages">GitHub repository</a>
+
+<h3>Overview</h3>
+
+The links are saved with a colour scheme and each one has its own button that opens a link in a new window.  This allows me to find the correct links very quickly, often without having to remember the exact name of the page.
+
+<h3>Challenges</h3>
+<dl>
+<dt><em>Challenge</em>: Getting the style right was tricky.</dt>
+
+<dd><em>Solution</em>: It took a while to get the CSS just right for this project, but after some iterating I got it sorted out in the end.  (Resolved)</dd>
+</dl>

@@ -1,6 +1,6 @@
 var links = new Array() ;
 
-//                                     background   text       border
+//                                  background   text       border
 links.push(new link('PDG'        , '#3d76cb'  , '#ffffff', '#ccccff', 'http://pdg.lbl.gov')) ;
 links.push(new link('iCMS'       , '#e3e4e9'  , '#24127c', '#ffffff', 'https://cms.cern.ch/iCMS/')) ;
 links.push(new link('Hypernews'  , '#0069c3'  , '#ffffff', '#9999ff', 'https://hypernews.cern.ch/HyperNews/CMS/cindex')) ;
@@ -21,3 +21,4 @@ links.push(new link('WBM'        , '#ffffff'  , '#4499aa', '#4499aa', 'https://c
 links.push(new link('CMSSW'      , '#eeeeff'  , '#1a419d', '#b0b0b0', 'http://cmsdoc.cern.ch/cms/Releases/CMSSW/latest_nightly/doc/html/')) ;
 links.push(new link('Global tags', '#7484ad'  , '#ffffff', '#000000', 'https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideFrontierConditions')) ;
 links.push(new link('CRAB 3'     , '#7484ad'  , '#ffffff', '#000000', 'https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookCRAB3Tutorial')) ;
+links.push(new link('JSON files' , '#ffffff'  , '#000000', '#000000', 'https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/')) ;
